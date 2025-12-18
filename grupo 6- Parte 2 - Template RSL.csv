@@ -1,0 +1,86 @@
+TENDÊNCIAS E DESAFIOS EM SI - ESTRUTURAÇÃO DA INVESTIGAÇÃO SISTEMÁTICA,,,,,,,,,,,,,,,,,,,,,,,,,,//
+Parte 2: Protocolo de Pesquisa,,,,,,,,,,,,,,,,,,,,,,,,,,
+Palavras-chave:,"Robô Polifuncional, Interação Humano-Robô, Logística, Saúde, Serviços de Campo.",,,,,,,,,,,,,,,,,,,,,,,,,
+Sinônimos por palavras-chave:,"Robô Polifuncional: ""robot"" OR ""cobot"" OR ""multipurpose robot""
+Logística: ""logistics"" OR ""warehouse"" OR ""supply chain"" OR ""fulfillment center"" 
+Saúde: ""healthcare"" OR ""hospital"" OR ""medical"" OR ""assistive"" 
+Serviços de Campo: ""field service"" OR ""field robotics"" OR ""inspection robot"" OR ""maintenance robot""",,,,,,,,,,,,,,,,,,,,,,,,,
+String de busca:,"(""polyfunctional robot"" OR ""multipurpose robot"" OR ""multi-task robot"" OR ""versatile robot"" OR ""collaborative robot"" OR ""cobot"")
+AND
+(""human-robot collaboration"" OR ""human-robot interaction"" OR ""human-robot synergy"")
+AND
+(""logistics"" OR ""warehouse"" OR ""supply chain"" OR ""fulfillment center"" OR ""healthcare"" OR ""hospital"" OR ""medical robot"" OR ""assistive robotics"" OR ""field service"" OR ""field robotics"" OR ""inspection robot"" OR ""maintenance robot"")",,,,,,,,,,,,,,,,,,,,,,,,,
+Fontes de pesquisa usadas:,"ACM, IEE, Scopus, Web of Science",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Executar a string de busca nas bases:,,,,,,,,,,,,,,,,,,,,,,,,,,
+Primeiros números por fonte de pesquisa:,"Para cada base (ou conferência), listar o número de artigos encontrados.
+",,,,,,,,,,,,,,,,,,,,,,,,,
+,ACM,149,Pesquisa,,,,,,,,,,,,,,,,,,,,,,,
+,IEEE,2,https://ieeexplore.ieee.org/search/searchresult.jsp?action=search&matchBoolean=true&newsearch=true&queryText=(((%22Abstract%22:%22polyfunctional%20robot%22%20OR%20%22Abstract%22:%22multipurpose%20robot%22%20OR%20%22Abstract%22:%22multi-task%20robot%22%20OR%20%22Abstract%22:%22versatile%20robot%22%20OR%20%22Abstract%22:%22collaborative%20robot%22%20OR%20%22Abstract%22:%22cobot%22)%20AND%20(%22Abstract%22:%22human-robot%20collaboration%22%20OR%20%22Abstract%22:%22human-robot%20interaction%22%20OR%20%22Abstract%22:%22human-robot%20synergy%22)%20AND%20(%22Abstract%22:%22logistics%22%20OR%20%22Abstract%22:%22warehouse%22%20OR%20%22Abstract%22:%22supply%20chain%22%20OR%20%22Abstract%22:%22fulfillment%20center%22%20OR%20%22Abstract%22:%22healthcare%22%20OR%20%22Abstract%22:%22hospital%22%20OR%20%22Abstract%22:%22medical%20robot%22%20OR%20%22Abstract%22:%22assistive%20robotics%22%20OR%20%22Abstract%22:%22field%20service%22%20OR%20%22Abstract%22:%22field%20robotics%22%20OR%20%22Abstract%22:%22inspection%20robot%22%20OR%20%22Abstract%22:%22maintenance%20robot%22))%0A),,,,,,,,,,,,,,,,,,,,,,,
+,Scopus,43,https://www.scopus.com/results/results.uri?st1=%28%22collaborative%22+OR+%22human%22+OR+%22interaction%22+OR+%22HRI%22+OR+%22collaboration%22+OR+%22HRC%22+OR+%22human+factors%22%29+AND+%28%22robot%22+OR+%22cobot%22+OR+%22multipurpose+robot%22%29+AND+%28%22ergonomics%22+OR+%22logistic%22+OR+%22logistics%22+OR+%22inspection%22+OR+%22assistive%22+OR+%22field+service%22+OR+%22field+robotics%22+OR+%22healthcare%22+OR+%22medical%22+OR+%22maintenance%22+OR+%22supply+chain%22+OR+%22fulfillment+center%22%29&st2=&s=ABS%28%28%22polyfunctional+robot%22+OR+%22multipurpose+robot%22+OR+%22multi-task+robot%22+OR+%22versatile+robot%22+OR+%22collaborative+robot%22+OR+%22cobot%22%29++And++%28+%22human-robot+collaboration%22+OR+%22human-robot+interaction%22+OR+%22human-robot+synergy%22%29+++And+++%28%22logistics%22+OR+%22warehouse%22+OR+%22supply+chain%22+OR+%22fulfillment+center%22+OR+%22healthcare%22+OR+%22hospital%22+OR+%22medical+robot%22+OR+%22assistive+robotics%22+OR+%22field+service%22+OR+%22field+robotics%22+OR+%22inspection+robot%22+OR+%22maintenance+robot%22%29%29&limit=10&origin=searchbasic&sort=plf-f&src=s&sot=b&sdt=b&sessionSearchId=b43774398591bf84112cb83a05a36814,,,,,,,,,,,,,,,,,,,,,,,
+,Science Direct,8,Pesquisa,,,,,,,,,,,,,,,,,,,,,,,
+,Web of Science,130,link,,,,,,,,,,,,,,,,,,,,,,,
+,Total de Artigos,202,,,,,,,,,,,,,,,,,,,,,,,,
+Critérios de inclusão:,"(CI1) Foco no Tema: O artigo deve discutir a aplicação, implementação, design ou avaliação de robôs em ambientes de trabalho.Foco em robôs polifuncionais (multi-tarefa) OU robôs colaborativos (cobots) que interagem com humanos. O contexto deve ser logística (armazéns, etc.), saúde (hospitais, assistência) ou serviços de campo (manutenção, inspeção).
+
+(CI2) Foco nas RQs: Deve fornecer dados sobre aplicações práticas, impactos mensurados (ROI, eficiência), análise de HRI, tecnologias habilitadoras ou desafios de implementação.
+
+(CI3) Tipo de Publicação: Artigos de conferência (proceedings) e artigos de periódico (journals) revisados por pares.
+
+(CI4) Idioma: Artigos em inglês.
+
+(CI5) Período: Publicados entre 2020-2025.        ",,,,,,,,,,,,,,,,,,,,,,,,,
+Critérios de exclusão:,"
+(CE1) Robôs de Tarefa Única: Estudos focados em robôs industriais tradicionais, fixos e de tarefa única sem interação humana.
+
+(CE2) Setores Excluídos: Foco exclusivo em robótica militar, espacial, doméstica ou entretenimento (a menos que a tecnologia seja aplicável aos setores-alvo).
+
+(CE3) Foco Teórico/Abstrato: Artigos puramente teóricos ou de simulação sem aplicação, estudo de caso ou protótipo validado nos setores-alvo.
+
+(CE4) Tipo de Publicação: Artigos de revisão (surveys, meta-análises), livros, capítulos, teses, dissertações, editoriais, notas curtas ou apenas resumos.
+
+(CE5) Acesso: Artigos cujo texto completo não puder ser obtido.
+",,,,,,,,,,,,,,,,,,,,,,,,,
+RESULTADO ESPERADO PARTE 2:,"String de busca definida e aplicada nas bases de pesquisa. Se os resultados encontrados estão relacionados com o tema, exportar os resultados para uma planilha para que os filtros da Parte 3 possam ser aplicados. ",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"450,8977778",,,,,,,,,,,,,,,,,,,,
+,,,,,,/,,,,,,,,,,,,,,,,,,,,
